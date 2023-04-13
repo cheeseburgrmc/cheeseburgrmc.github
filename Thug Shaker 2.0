@@ -1,0 +1,6 @@
+game.StarterGui:SetCore("SendNotification", {
+	    Title = "Thug shaker";
+	    Text = "Thug shaker's ass is mad juicy";
+	    Duration = 2;
+	})
+	script.Disabled = true
